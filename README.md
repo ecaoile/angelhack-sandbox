@@ -12,6 +12,7 @@ The following is required to run the program locally.
 1. Visual Studio Code
 2. A working internet connection
 3. An updated browser to display the application
+4. Agora.io broadcast set up on another user's computer to view their webcam
 
 ## Happy path
 - open home page
