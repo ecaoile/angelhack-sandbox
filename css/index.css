@@ -5,3 +5,7 @@ height: 100px;
 padding-top: 2.3em;
 color: white;
 }
+
+.home-image {
+  max-width:90vw;
+}
