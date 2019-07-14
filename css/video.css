@@ -1,0 +1,26 @@
+body {
+  background-color: lightgray;
+}
+#top-nav {
+  background-color: darkslategray;
+}
+header
+{
+  background-color: #006080;
+  color: white;
+}
+
+header > .row
+{
+  display:flex;
+  justify-content: space-between;
+}
+
+.alert-popout {
+  position: absolute;
+  width: 226px;
+  height: 64px;
+  left: 125px;
+  top: 392px;
+  background-color:lightseagreen;
+}
